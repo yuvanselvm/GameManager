@@ -1,0 +1,24 @@
+* {
+    background-color: #292929;
+    color: white;
+
+    font-family: inconsolata;
+    font-size: 15px;
+    font-weight: 400;
+
+    outline:0px;
+    border: 0px;
+    border-radius: 5px;
+}
+
+QLineEdit {
+    background-color: #2e2e2e;
+}
+
+QPushButton#bordered {
+    border: 1px solid #e43834;
+}
+
+QPushButton#defaultBtn {
+    background-color: #e43834;
+}
